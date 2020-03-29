@@ -1,0 +1,20 @@
+---
+name: Práctica de Inferencia de Tipos
+locale: es
+type: practice
+beta: false
+language: haskell
+id_format: "%05d"
+order:
+- 2
+- 7
+- 1
+- 3
+- 6
+- 5
+- 4
+- 9
+- 11
+- 8
+- 10
+private: false

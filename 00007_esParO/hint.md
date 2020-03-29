@@ -1,0 +1,1 @@
+¡Ojo! `even` es como `esPar`: ¡sólo funciona con números enteros!
